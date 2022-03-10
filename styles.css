@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.copyright{
+  color: black;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0px;
+}
+
